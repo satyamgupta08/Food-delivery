@@ -46,13 +46,6 @@ State management is handled using **Redux Toolkit**, along with other essential 
 - The project uses **MongoDB** as the database.
 - Import the provided **database file** to store and manage data.
 
-## Key Benefits of Downloading from Kashipara.com
-- Easy-to-run source code.
-- Simple configuration of source code files.
-- Expert support for project development.
-- Step-by-step setup guide for both the **project** and **database**.
-- Screenshots and project diagrams provided.
-- Downloadable project documents available for better understanding.
 
 ---
 
